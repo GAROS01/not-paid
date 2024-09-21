@@ -12,9 +12,9 @@ const daysDeadline = 60; // Actualiza este número según tus necesidades
 
 ## Uso
 
-Simplemente cargue el archivo ```not-paid.js``` en el ```<head>```
+Simplemente descargue el archivo ```not-paid.js``` y carguelo en el ```<head>``` de su proyecto.
 
 ## Autor
 
 - Autor original Ciprian (@kleampa). [Repositorio](https://github.com/kleampa/not-paid/tree/master)
-- Refactorizado por yo.
+- Refactorizado por mi.
